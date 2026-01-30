@@ -2,7 +2,7 @@
 
 A powerful Node.js tool for analyzing competitor apps in the offerwall/GPT (Get-Paid-To) space. This tool scrapes Google Play Store data, analyzes user reviews using sentiment analysis, and generates beautiful interactive HTML reports to help you understand the competitive landscape.
 
-![Dashboard Preview](https://raw.githubusercontent.com/YOUR_USERNAME/test_competitors_analysis/main/assets/dashboard_preview.png)
+![Dashboard Preview](./assets/dashboard_preview.png)
 
 ## ✨ Features
 
