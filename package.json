@@ -1,0 +1,36 @@
+{
+  "name": "offerwall-competitors-analysis",
+  "version": "1.0.0",
+  "description": "A powerful Node.js tool for analyzing competitor apps in the offerwall/GPT space. Scrapes Google Play Store data, analyzes user reviews, and generates interactive HTML reports.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "offerwall",
+    "competitor-analysis",
+    "google-play-scraper",
+    "app-analysis",
+    "review-analysis",
+    "gpt",
+    "market-research",
+    "sentiment-analysis"
+  ],
+  "author": "Criss",
+  "license": "MIT",
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YOUR_USERNAME/offerwall-competitors-analysis.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YOUR_USERNAME/offerwall-competitors-analysis/issues"
+  },
+  "homepage": "https://github.com/YOUR_USERNAME/offerwall-competitors-analysis#readme",
+  "dependencies": {
+    "csv-stringify": "^6.6.0",
+    "google-play-scraper": "^10.1.2",
+    "p-limit": "^7.2.0"
+  }
+}
