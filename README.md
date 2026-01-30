@@ -49,8 +49,8 @@ A powerful Node.js tool for analyzing competitor apps in the offerwall/GPT (Get-
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/test_competitors_analysis.git
-cd test_competitors_analysis
+git clone https://github.com/CristaudoGiuseppe/offerwall-competitors-analysis.git
+cd offerwall-competitors-analysis
 
 # Install dependencies
 npm install
